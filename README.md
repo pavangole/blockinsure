@@ -16,6 +16,7 @@ shops, repair shop, Customer and Insurance Company are connected through permiss
 
 
 # Installation
+git clone https://github.com/pavangole/blockinsure.git
 Run only ./build_ubuntu.sh
 
 
