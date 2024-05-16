@@ -16,6 +16,10 @@ shops, repair shop, Customer and Insurance Company are connected through permiss
 
 
 # Installation
+Install docker
+sudo apt-get install docker-io
+Install docker-compose
+sudo apt-get install docker-compose
 git clone https://github.com/pavangole/blockinsure.git
 Run only ./build_ubuntu.sh
 
